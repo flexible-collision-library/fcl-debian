@@ -1,0 +1,20 @@
+fcl (0.3.2-1) unstable; urgency=medium
+
+  * Remove already merged patch
+  * Update Standards version
+  * Properly define several uploaders
+  * Patch 0.3.0 version to use libccd 2.0 currently in SID
+  * Missing patch in series files
+  * Implement autopkgtest for checking the build
+  * Fix priorities
+  * Added Testsuite autopkgtest
+  * Added watch file
+  * Imported Upstream version 0.3.2
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 13 Nov 2015 01:30:09 +0000
+
+fcl (0.3.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #722268)
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 28 Mar 2014 02:05:38 +0100

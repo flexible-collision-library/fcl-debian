@@ -1,0 +1,11 @@
+fcl (0.3.0-1build1) wily; urgency=medium
+
+  * No-change rebuild using boost 1.58.
+
+ -- Matthias Klose <doko@ubuntu.com>  Fri, 28 Aug 2015 12:53:36 +0000
+
+fcl (0.3.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #722268)
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 28 Mar 2014 02:05:38 +0100
